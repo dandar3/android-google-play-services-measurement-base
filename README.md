@@ -8,7 +8,7 @@ https://maven.google.com/com/google/android/gms/play-services-measurement-base/1
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/17.0.0)
 
 **References:**
-GOOGLE_PLAY_SERVICES_RELEASE_REFERENCES
+- https://developers.google.com/android/guides/releases
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>

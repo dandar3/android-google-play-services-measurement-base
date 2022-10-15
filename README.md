@@ -1,11 +1,11 @@
 ## google-play-services-measurement-base
 
 Eclipse library project based on:<br/>
-https://maven.google.com/com/google/android/gms/play-services-measurement-base/18.0.3/play-services-measurement-base-18.0.3.aar
+https://maven.google.com/com/google/android/gms/play-services-measurement-base/19.0.0/play-services-measurement-base-19.0.0.aar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-google-play-services-measurement-base/18.0.3/.projectset
+  https://raw.githubusercontent.com/dandar3/android-google-play-services-measurement-base/19.0.0/.projectset
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
